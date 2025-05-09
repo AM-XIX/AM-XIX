@@ -1,10 +1,9 @@
 # 💫 About Me:
-✨ 22 yo creative chaos
-🧑‍🎓 Currently in 4th Year of Creative Engineering School @ ESIEE Paris
-🔭 Intern @Coollab-Art
-😄 Pronouns: Any
+✨ 22 yo creative chaos<br>
+🧑‍🎓 Currently in 4th Year of Creative Engineering School @ ESIEE Paris<br>
+🔭 Intern @Coollab-Art<br>
+😄 Pronouns: Any<br>
 👉 My creative-only portfolio
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/energie_negative) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anna-maria-lannaud-a391671ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:am.lannaud@gmail.com) 

@@ -1,5 +1,9 @@
 # 💫 About Me:
-✨ 22 yo creative chaos<br>🧑‍🎓 Currently in 4th Year of Creative Engineering School @ ESIEE Paris<br>🔭  Looking for a 3 - 4 month internship starting in May / June<br>😄 Pronouns: Any<br>👉 My creative-only portfolio
+✨ 22 yo creative chaos
+🧑‍🎓 Currently in 4th Year of Creative Engineering School @ ESIEE Paris
+🔭 Intern @Coollab-Art
+😄 Pronouns: Any
+👉 My creative-only portfolio
 
 
 ## 🌐 Socials:
